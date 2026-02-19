@@ -1,4 +1,4 @@
-# Assignment 1 README
+# 04-637 Mobile Big Data Analytics and Management
 
 > This repository contains the code and documentation for Assignment 2 of this course. The assignment focuses on data analysis and machine learning.
 
