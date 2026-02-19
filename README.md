@@ -189,6 +189,8 @@ ________________________________________
 
 ## Word Clouds
 
+![Word Clouds](/files/wordcloud.png)
+
 This is the visual representation of term frequency. Two most prominent words identified for each class  were words like `kill` and `let`, associated with extremism while words like `bitch` and `fucking` are associated with non-extremism.
 
 
